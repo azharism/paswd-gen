@@ -1,0 +1,4 @@
+passwd-gen command
+1. # Generate one by using for example: pwgen -N 1 -s 96
+2.# Create one by using for example: echo -n yourpassword | shasum -a 256
+
